@@ -2,6 +2,8 @@ Resale Flat Prices in Singapore
 
 Dataset is based on date of registration for the resale transactions from Jan 2017 to Oct 2023. Dataset contains 11 variables, exploratory analysis and visualisation is being done by filtering out data for Year 2023 onwards.
 
+Dataset link: https://beta.data.gov.sg/collections/189/datasets/d_8b84c4ee58e3cfc0ece0d773c8ca6abc/view
+
 Modelling objectives: 
 
 1) To predict the price of resale flats using Artificial Neural Network regression.
