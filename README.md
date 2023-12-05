@@ -2,9 +2,11 @@ Resale Flat Prices in Singapore
 
 Dataset is based on date of registration for the resale transactions from Jan 2017 to Oct 2023. Dataset contains 11 variables, exploratory analysis and visualisation is being done by filtering out data for Year 2023 onwards.
 
-Modelling objectives: To predict the price of resale flat using Artificial Neural Network regression.
+Modelling objectives: 
 
-2nd objective: To understand what are factors that drive or determine housing prices.
+1) To predict the price of resale flats using Artificial Neural Network regression.
+
+2) To understand what are factors that drive or determine housing prices.
 
 Explained variance score was used to assess ANN regression prediction model, it yield = 0.64
 
