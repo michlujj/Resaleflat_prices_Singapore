@@ -19,5 +19,5 @@ There is steep increase in housing prices from 2020 to 2023.
 
 Random Forest regressor prediction model has achieved 94% accuracy rate.
 
-Top three predictors of housing prices: 'floor area(sqm)','lease commence date' and 'remaining lease years'.
+Top three predictors of housing prices: 'floor area(sqm)', 'lease commence date' and 'remaining lease years'.
 
