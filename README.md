@@ -1,6 +1,6 @@
 Resale Flat Prices in Singapore
 
-Dataset is based on date of registration for the resale transactions from Jan 2017 to Oct 2023. Dataset contains 11 variables, exploratory analysis and visualisation is being done by filtering out data for Year 2023 onwards.
+Dataset is based on date of registration for the resale transactions from Jan 2017 to Nov 2024. Dataset contains 11 variables, exploratory analysis and visualisation is being done by filtering out data for Year 2024 onwards.
 
 Dataset link: https://beta.data.gov.sg/collections/189/datasets/d_8b84c4ee58e3cfc0ece0d773c8ca6abc/view
 
@@ -15,11 +15,11 @@ Explained variance score was used to assess ANN regression prediction model, it 
 Explained variance score is similar to R^2 score, regression score function. Best possible score = 1.0
 
 Exploratory data analysis showed that Prices for HDB flats around Bt.Timah is the most expensive, followed by Bishan area.
-HDB flats around Yishun area are the cheapest.
+HDB flats around Ang Mo Kio area are the cheapest in 2024, second cheapest is around Jurong East.
 
-There is steep increase in housing prices from 2020 to 2023.
+There is steep increase in housing prices from 2020 to 2024.
 
-Random Forest regressor prediction model has achieved 94% accuracy rate.
+Random Forest regressor prediction model achieved the smallest Root Mean Squared Error = 42762.218
 
 Top three predictors of housing prices: 'floor area(sqm)', 'lease commence date' and 'remaining lease years'.
 
